@@ -2,12 +2,12 @@
   "name": "module-13-challenge-orm",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "Develop/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
-    "watch": "nodemon server.js",
-    "seed": "node seeds/index.js"
+    "start": "node Develop/server.js",
+    "watch": "nodemon Develop/server.js",
+    "seed": "node Develop/seeds/index.js"
   },
   "repository": {
     "type": "git",
